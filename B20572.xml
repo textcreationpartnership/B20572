@@ -1,0 +1,247 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A comical elegy, on the death of Evan Morgan, son of Shon ap Morgan shentleman of Wales, who departed this life in her grandmothers hen roost, on St. Taffies day, being the first of March 1700.</title>
+         </titleStmt>
+         <extent>Approx. 7KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B20572</idno><idno type="EEBO-CITATION">99888284</idno>
+  <idno type="VID">200864</idno>
+  <idno type="EEBO-PROQUEST">2248539332</idno>
+  
+            <idno type="STC">Wing C5539</idno>
+            <idno type="STC">Interim Tract Supplement Guide C.121.g.9[117]</idno>
+            <idno type="STC">ESTC R229262</idno>
+            <idno type="PROQUEST">ocm99888284</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99888284e"/>
+            <note>(EEBO-TCP ; phase 2, no. B20572)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 200864)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; A8:1[119])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A comical elegy, on the death of Evan Morgan, son of Shon ap Morgan shentleman of Wales, who departed this life in her grandmothers hen roost, on St. Taffies day, being the first of March 1700.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>By J.W. near Fleet-street,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1700.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Printed in double columns with heavy black mourning borders, initial.</note>
+                  <note>First line: "A trend you Welch men, while I do relate."</note>
+                  <note>Reproduction of original in: British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Morgan, Evan --  Death and burial --  Early works to 1800.</term>
+               <term type="topical_term">Elegiac poetry, English --  18th century.</term>
+               <term type="topical_term">English wit and humor --  Early works to 1800.</term>
+               <term type="genre_form">Broadsides --  England --  18th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-02 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-04 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-04 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div n="comical" type="elegy">
+            <pb facs="tcp:200864:1"/>
+            <head>A Comical ELEGY, On the Death of Evan Morgan, Son of Shon ap Morgan Shen<g ref="char:EOLhyphen"/>tleman of <hi>Wales,</hi> who Departed this Life in her Grandmothers Hen Roost, on St. <hi>Taffies</hi> Day, being the First of <hi>March</hi> 1700.</head>
+            <lg>
+               <l>ATtend you <hi>Welch</hi> Men, while I do relate,</l>
+               <l>How <hi>Taffy</hi> fell by suddain cruel Fate,</l>
+               <l>It was her fortune last St. <hi>Taffies</hi> Day,</l>
+               <l>To sit and muse as many others may;</l>
+               <l>When on a suddain her Death Pangs came on,</l>
+               <l>And in spite of her Plud her life was gone:</l>
+               <l>All <hi>Welch</hi> Men sure will Mourn, and who can chuse,</l>
+               <l>When they do hear this strange unpleasent News:</l>
+               <l>Oh! cruel Fate, what harm has <hi>Taffy</hi> done,</l>
+               <l>That thou shouldst snatch away his Life so soon;</l>
+               <l>'Tis something hard thou couldst no longer stay,</l>
+               <l>But fetch her hence upon St. <hi>Taffies</hi> Day;</l>
+               <l>When her was feeding of her Granums Hens,</l>
+               <l>And thought for, her past crimes to make amends:</l>
+               <l>All her he Goates, and Female Kids, will Weep,</l>
+               <l>When they percive that <hi>morgan</hi> is Asleep:</l>
+               <l>Methinks I see, poor <hi>Taffy</hi> on his Knees,</l>
+               <l>With Knife in's hand a Toasting of his Cheese;</l>
+               <l>Methinks I see him eat it on a suddain,</l>
+               <l>And swar's it doth exceed our hasty Pudding:</l>
+               <l>Some think a Surfiet did her Vitals Seize,</l>
+               <l>Which was brought on by Eating toasted Cheese';</l>
+               <l>Yet others say who are of much more Skill,</l>
+               <l>That Leeks and Garlick, did poor <hi>morgan</hi> Kill;</l>
+               <l>He us'd no Physick but the Juice of Leeks,</l>
+               <l>And Liv'd on that same Diate many Weeks;</l>
+               <lg>
+                  <l>Red Herrings too, her thought a samous Dish,</l>
+                  <l>And did affirm they were the King of Fish,</l>
+                  <l>For better Victuals he did seldom wish:</l>
+               </lg>
+               <l>But tho he's Dead, it cannot be deny'd,</l>
+               <l>Her Liv'd until the very Day her Dy'd,</l>
+               <l>But Greif prevails and gains upon my Spirits,</l>
+               <l>So that I must pass by his other Merits.</l>
+            </lg>
+            <lg>
+               <head>Her EPITAPH.</head>
+               <l>HEre lyes <hi>Evan morgan,</hi> Cuds plutterdenales,</l>
+               <l>Who l<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>v'd and Dy'd in the Mountains of <hi>Wales;</hi>
+               </l>
+               <l>He often times of his Pedegree boasted,</l>
+               <l>And seldom did Dine, without Cheese that was Toasted:</l>
+               <lg>
+                  <l>He was always accounted a Man of his Word,</l>
+                  <l>But on St. <hi>Taffies</hi> Day, he was pelted with Turd,</l>
+                  <l>And wore a Red, Herring in stead of a Sword;</l>
+               </lg>
+               <l>His Goods and his Chattles if more you wou'd know,</l>
+               <l>Pray Read, or'e his fam'd <hi>Inventory</hi> below.</l>
+            </lg>
+         </div>
+         <div type="inventory">
+            <head>A<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Inventory of several goods and Chattels which her had for<g ref="char:EOLhyphen"/>got to Mention in hur Last Will and Testament.</head>
+            <p>
+               <hi>
+                  <gap reason="illegible" resp="#murp" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+               </hi> in the <hi>Pantry</hi> of Poultery, (for her own Eating) one <gap reason="illegible" resp="#murp" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> Pig four week old, one Goose, one Cock-gelding, two Black pudding, three Cow-foot.</p>
+            <p>
+               <hi>Item:</hi> In the <hi>Pantry</hi> of Plate, one Cridiron, one Fripan, one Trypan, three wooden Ladle, three Can.</p>
+            <p>
+               <hi>Item:</hi> In the <hi>Napery,</hi> two Towel, two Table-cloath, four N<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>pkin; one for her self, one for her Wife <hi>Shone,</hi> two for her Couzen <hi>Shon ap Powel,</hi> and <hi>Thomas ap Hugh,</hi> when was come to her House.</p>
+            <p>
+               <hi>Item:</hi> In the <hi>Wardrobe,</hi> one <hi>Irish</hi> rug, one Frize Shirkin, one Sheepskin Tublet, two <hi>Irish</hi> Stocking, two Shooe, six Leather point.</p>
+            <p>
+               <hi>Item:</hi> In the <hi>Tary,</hi> one Toasting-sheese, three Oaten Cake, three pint Coat milk, one pound of Cow-putter.</p>
+            <p>
+               <hi>Item:</hi> In the <hi>Kitchin,</hi> one pan with white Curd, two White<g ref="char:EOLhyphen"/>pot, two Red Herring, nine Sprat.</p>
+            <p>
+               <hi>Item:</hi> In the <hi>Seller</hi> one Firkin of Wiggan, two sowre Syder, one pint of perrp, one little pottle of <hi>Carmarden-Sack,</hi> alias <hi>Metheglin.</hi>
+            </p>
+            <p>
+               <hi>Item:</hi> In the <hi>Armory</hi> (of Weapons to kill her Enemy) one pack sword, two Edge, two <hi>Welsh</hi> hook, three Club, one Cun, one Mouse-Trap.</p>
+            <p>
+               <hi>Item.</hi> In the <hi>Garden,</hi> one ped garlick, nine Onion, twelve Leek twelve Worm six Frog.</p>
+            <p>
+               <hi>Item.</hi> in the <hi>Lease way,</hi> two tun <hi>Cow,</hi> one Mountain Calf.</p>
+            <p>
+               <hi>Item:</hi> In the <hi>common Fields,</hi> two <hi>Welsh</hi> Nag, twelve long legg'd sheep, fourteen and twelve <hi>Coat.</hi>
+            </p>
+            <p>
+               <hi>Item:</hi> In the <hi>Proomclose,</hi> three Robin run hole, four Hare, <hi>her own Coods if her can catch her.</hi>
+            </p>
+            <p>
+               <hi>Item:</hi> In the Parn, one half Heblet of Oat, seven pea, two pean.</p>
+            <p>
+               <hi>Item:</hi> In the <hi>Study</hi> (by Cot her was almost forgot her) one <hi>Welsh</hi> pipple, 2 Almanack, one <hi>Erra Pater,</hi> one Seven <hi>Champions</hi> for St. <hi>Taffies</hi> sake, twelve pallat, one pedigree.</p>
+            <p>
+               <hi>Item:</hi> In the Ped two naked pody, one Shirt, one Flannel smock that is at her peds head.</p>
+            <p>
+               <hi>Item:</hi> More Cattle about the <hi>House,</hi> two Tog, three Cat, twelve Mouse <hi>(pox on her was eat her toasted Cheese) one thousand white</hi> Flea <hi>with plack back:</hi>
+            </p>
+            <p>
+               <hi>Item:</hi> more lumber about the <hi>House,</hi> one wife, two shild, one call her plack <hi>Shack,</hi> and t'other little <hi>Morgan.</hi>
+            </p>
+            <p>
+               <hi>Item:</hi> In the Yard under the wall, one wheel, two pucket, one Ladder two Rope.</p>
+            <p>
+               <hi>This</hi> Inventory <hi>taken Note of in the presence of her own Couzen</hi> Rowland Merideth ap Howel, <hi>and</hi> Lowen in Morgan ap Wil<g ref="char:EOLhyphen"/>liam, <hi>in</hi> Anno <hi>One Thousand Eight Hundred Forty Nine, upon the Ten and Thirtieth of</hi> shune.</p>
+            <p>The above-named <hi>William Morgan,</hi> died when her had lived Threescore and Twenty Years, Thirteen Months, one Week and Seven Days.</p>
+         </div>
+         <div type="part">
+            <head>A Note of some Legacy of a Creat at deal of Coods bequeathed to her Wife and her two Shild and all her Cousens, Friends and Kindred in man<g ref="char:EOLhyphen"/>ner as followeth.</head>
+            <p>
+               <hi>IMprimis,</hi> Was give her teer Wife, <hi>Jone Morgan,</hi> all her coods in the ped, over the ped, and under the ped.</p>
+            <p>
+               <hi>Item,</hi> Was give to her Eldest Son <hi>Plack Shack,</hi> Forty and twelve Card to play at Whipper shinny, four Ty (to sheat her Cuzen) be<g ref="char:EOLhyphen"/>sides all her Land to the full value of Twenty and ten shillings and there Groats <hi>per Annum.</hi>
+            </p>
+            <p>
+               <hi>Item.</hi> Was give to her second Son little <hi>Morgan ap Murgain,</hi> her short Ladder under the Wall in the Yard, and two Rope.</p>
+            <p>
+               <hi>Item.</hi> Was give to her cosen <hi>Rowland Mirideth ap h<gap reason="illegible" resp="#murp" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>el,</hi> and <hi>Lo<g ref="char:EOLhyphen"/>wen in morgan,</hi> who was made her <hi>Executor,</hi> full power to pay all her tet when her can get Mony.</p>
+            <p>
+               <hi>Sealed</hi> and <hi>delivered in the presence of</hi> Evan ap Richard, ap Shink<g ref="char:EOLhyphen"/>in ap shone, <hi>her own</hi> Couzen, <hi>the tag and Year above writen.</hi>
+            </p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>LONDON, by <hi>J. W.</hi> near <hi>Fleet-street,</hi> 1700.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
